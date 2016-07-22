@@ -6,6 +6,7 @@ body{
   width:100%;
 }
 .header{
+  height:290px;
   background: url('../img/header.jpg');
   background-size: 100% 100%;
   background-repeat: no-repeat;
