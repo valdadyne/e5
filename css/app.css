@@ -5,15 +5,14 @@ body{
   padding: 0;
   width:100%;
 }
-.header img{
-  position:absolute;
-  top:0;
+.header{
+  background: url('../img/header.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 .title{
-  position: relative;
   margin: 50px 70px;
   text-align: right;
-
 }
 .title h4{
   font-family: 'Open Sans', sans-serif;
@@ -28,4 +27,7 @@ body{
   font-size: 50px;
   line-height: 48px;
   color:#fff;
+}
+.content{
+  margin-top: 60px;
 }
