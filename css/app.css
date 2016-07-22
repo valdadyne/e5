@@ -1,0 +1,31 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,700';
+
+body{
+  margin: 0;
+  padding: 0;
+  width:100%;
+}
+.header img{
+  position:absolute;
+  top:0;
+}
+.title{
+  position: relative;
+  margin: 50px 70px;
+  text-align: right;
+
+}
+.title h4{
+  font-family: 'Open Sans', sans-serif;
+  font-weight:300;
+  font-size: 32px;
+  color:#fff;
+}
+.title span{
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+  font-weight:700;
+  font-size: 50px;
+  line-height: 48px;
+  color:#fff;
+}
